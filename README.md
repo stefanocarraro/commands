@@ -1,5 +1,10 @@
 # Claude Code Slash Commands
 
+> [!IMPORTANT]
+> This repository is archived and no longer maintained. Claude Code now ships commands as part of plugins, so new work happens in the [Agentic Plugin Marketplace](https://github.com/wshobson/agents), which packages agents, skills, and commands as plugins you can install one at a time.
+>
+> To get started with the marketplace in Claude Code, run `/plugin marketplace add wshobson/agents`, and then install the plugins you need with `/plugin install <name>`.
+
 A comprehensive collection of production-ready slash commands for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) that provides intelligent automation and multi-agent orchestration capabilities for modern software development.
 
 ## Overview
